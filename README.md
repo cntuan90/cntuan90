@@ -1,5 +1,12 @@
-### Hi there 👋
+### 📋 About me
+#### Hi there 👋
+If you would like to know about me then please go through my links below:
 
+* Website: [https://cntuan90.github.io](https://cntuan90.github.io)
+
+### 📩 Contact me
+
+[cntuan90@gmail.com](cntuan90@gmail.com)
 <!--
 **cntuan90/cntuan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
