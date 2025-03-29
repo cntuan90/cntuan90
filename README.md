@@ -5,7 +5,7 @@ If you would like to know about me then please go through my links below:
 * Website: [https://cntuan90.github.io](https://cntuan90.github.io)
 * GitHub: [https://github.com/cntuan90](https://github.com/cntuan90)
 * Gitlab: [https://gitlab.com/cntuan90](https://gitlab.com/cntuan90)
-* Linkedin: [https://www.linkedin.com/in/tuan-ngoc-68b586a4/](https://linkedin.com/in/tuan-ngoc-68b586a4)
+* Linkedin: [[https://www.linkedin.com/in/tuan-ngoc-68b586a4/](https://linkedin.com/in/tuan-ngoc-68b586a4)](https://www.linkedin.com/in/ngoc-tuan-cao-68b586a4/)
 * Facebook: [https://www.facebook.com/cntuan90/](https://www.facebook.com/cntuan90/)
 
 ### 📩 Contact me
